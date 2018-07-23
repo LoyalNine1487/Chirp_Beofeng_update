@@ -36,6 +36,9 @@ The make number can be found by holding the number 6 while powering on.
 
 PLEASE post the Model, Firmware, and Make when making a issue. Where you got it would be helpfull to but not required
 
+#### Know fixes
+
+Baofeng UV-82HP with firmware "N32301"
 
 #### Links
 
